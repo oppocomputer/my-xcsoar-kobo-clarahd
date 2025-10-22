@@ -1,6 +1,5 @@
-XCSoar runs on Kobo Clara HD, but it is not among [officially supported](https://www.xcsoar.org/hardware/#kobo) 
-Kobo eReaders, so this repo contains some "hacks" which I use to make my life easier.  
-
+# Kobo Clara HD config
+Originally forked from [pyctam/my-xcsoar-kobo-clarahd](https://github.com/pyctam/my-xcsoar-kobo-clarahd), adapting and adding useful scripts.
 
 # USBnetwork
 Wifi is not working in XCSoar mode, so in order to establish connection with the device
